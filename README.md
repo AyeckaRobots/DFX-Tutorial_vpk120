@@ -1,4 +1,4 @@
-# DFX-Tutorial_vpk120
+# DFX Tutorial VPK120
 
 Welcome to the Dynamic Function eXchange (DFX) repository for the Xilinx Versal VPK120 evaluation board.
 
